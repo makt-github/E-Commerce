@@ -15,6 +15,7 @@
 }
 
 .buy-now-button{
+    font-weight: 700;
     background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
     color: whitesmoke;
     border-radius: 8px;
