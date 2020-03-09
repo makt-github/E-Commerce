@@ -1,7 +1,10 @@
 .container{
     margin-bottom: 100px;
+    padding-top: 10px;
 
 }
+
+
 
 .bg-color{
     background-color: #fdeae9;
@@ -19,6 +22,52 @@
     background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
     color: whitesmoke;
     border-radius: 8px;
-    padding: 9px 25px;
+    padding: 9px 20px;
     border: none;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+
+.cat1{
+    background-color: tomato;
+}
+
+.cat2{
+    background-color: yellowgreen;
+}
+.cat3{
+    background-color: #FF136F;
+}
+
+.categories h3{
+    color: white;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-fotter{
+    background-color: white;
+    border-top: none;
+    
+}
+
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
